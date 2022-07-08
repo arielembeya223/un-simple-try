@@ -94,7 +94,7 @@ body{
         height:1px
     }
  .salutation{
-    margin-top:80%;
+    margin-top:90%;
     font-size: 14px;
  } 
  .conseille{
@@ -107,7 +107,7 @@ body{
  .sidebar2 img{
     width:90vw;
     margin-top: 25%;
-    height: 40vh;
+    height: 50vh;
  }
  .sidebar{
 position: absolute;
